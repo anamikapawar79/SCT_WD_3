@@ -31,7 +31,7 @@ The application displays multiple-choice questions, collects user responses, and
 ## ▶ How to Run the Project
 
 1. Download or clone the repository  
-2. Open `index.html` in any web browser  
+2. Open `Quizapp.html` in any web browser  
 3. Start the quiz and answer the questions  
 
 ## 🎯 Learning Outcomes
